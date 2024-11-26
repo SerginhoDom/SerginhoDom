@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sergey Domeshev
+#### Machine learning engineer / Data Scientist
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake-dark.svg">
